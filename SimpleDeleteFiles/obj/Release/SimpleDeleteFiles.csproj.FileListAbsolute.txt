@@ -1,0 +1,8 @@
+R:\Наработки\SimpleDeleteFiles\SimpleDeleteFiles\bin\Release\Program.cs
+R:\Наработки\SimpleDeleteFiles\SimpleDeleteFiles\bin\Release\SimpleDeleteFiles.exe.config
+R:\Наработки\SimpleDeleteFiles\SimpleDeleteFiles\bin\Release\SimpleDeleteFiles.exe
+R:\Наработки\SimpleDeleteFiles\SimpleDeleteFiles\bin\Release\SimpleDeleteFiles.pdb
+R:\Наработки\SimpleDeleteFiles\SimpleDeleteFiles\obj\Release\SimpleDeleteFiles.csprojAssemblyReference.cache
+R:\Наработки\SimpleDeleteFiles\SimpleDeleteFiles\obj\Release\SimpleDeleteFiles.csproj.CoreCompileInputs.cache
+R:\Наработки\SimpleDeleteFiles\SimpleDeleteFiles\obj\Release\SimpleDeleteFiles.exe
+R:\Наработки\SimpleDeleteFiles\SimpleDeleteFiles\obj\Release\SimpleDeleteFiles.pdb
